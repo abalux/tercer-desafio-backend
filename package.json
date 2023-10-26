@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "tercer-desafio-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abalux/tercer-desafio-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abalux/tercer-desafio-backend/issues"
+  },
+  "homepage": "https://github.com/abalux/tercer-desafio-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
